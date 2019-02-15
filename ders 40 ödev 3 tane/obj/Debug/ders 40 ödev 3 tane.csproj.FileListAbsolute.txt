@@ -1,0 +1,10 @@
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\bin\Debug\ders 40 ödev 3 tane.exe.config
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\bin\Debug\ders 40 ödev 3 tane.exe
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\bin\Debug\ders 40 ödev 3 tane.pdb
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\obj\Debug\ders_40_ödev_3_tane.Form1.resources
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\obj\Debug\ders_40_ödev_3_tane.Properties.Resources.resources
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\obj\Debug\ders 40 ödev 3 tane.csproj.GenerateResource.cache
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\obj\Debug\ders 40 ödev 3 tane.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\obj\Debug\ders 40 ödev 3 tane.exe
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\obj\Debug\ders 40 ödev 3 tane.pdb
+C:\Users\docal\source\repos\ders 40 ödev 3 tane\ders 40 ödev 3 tane\obj\Debug\ders 40 ödev 3 tane.csprojAssemblyReference.cache
